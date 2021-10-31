@@ -10,7 +10,7 @@
   <artifactId>computer-queue-plugin</artifactId>
   <version>1.7-SNAPSHOT</version>
   <packaging>hpi</packaging>
-  <url>https://wiki.jenkins-ci.org/display/JENKINS/Computer+queue+plugin</url>
+  <url>https://github.com/jenkinsci/computer-queue-plugin</url>
   <name>computer-queue-plugin</name>
   
   <developers />
