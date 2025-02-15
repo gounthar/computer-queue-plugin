@@ -7,7 +7,6 @@ package org.jenkinsci.plugins.computerqueue;
 import hudson.model.Action;
 import hudson.model.Computer;
 import hudson.model.ComputerPanelBox;
-import hudson.model.Hudson;
 
 /**
  * Updating a computer queue through Ajax is the only propose of this class

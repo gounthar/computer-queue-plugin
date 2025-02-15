@@ -1,7 +1,9 @@
 package org.jenkinsci.plugins.computerqueue;
 
 import hudson.Extension;
-import hudson.model.*;
+import hudson.model.ComputerPanelBox;
+import hudson.model.Node;
+import hudson.model.Queue;
 import hudson.model.Queue.BuildableItem;
 import jenkins.model.Jenkins;
 
